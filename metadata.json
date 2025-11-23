@@ -1,0 +1,7 @@
+{
+  "name": "ChronoBooth: Time Travel Selfies",
+  "description": "Travel through history with AI. Snap a selfie, choose an era, and watch yourself transform using Gemini 2.5 Flash Image. Analyze historical details with Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
